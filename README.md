@@ -3,6 +3,8 @@
 This wallpaper syncs with OpenRGB, receiving color data and illuminating your wallpaper like a dazzling light show!  
 Many thanks to qiangqiang101 for the amazing [program](https://github.com/qiangqiang101/OpenRGB-Wallpaper-Engine), I was inspired by this idea to create my own simple one with little frontend and backend.
 
+https://github.com/zippw/WallpaperEngine_OpenRGB_Sync/assets/78442160/09dcd66d-e852-4282-85f9-4cb03d9dd27e
+
 ## Important
 
 1. It supports only 1 color channel.
