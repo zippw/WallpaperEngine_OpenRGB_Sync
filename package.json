@@ -1,7 +1,7 @@
 {
   "name": "openrgbdata",
   "version": "1.0.0",
-  "description": "catch data from openrgb",
+  "description": "",
   "main": "dist/src/index.js",
   "scripts": {
     "start": "node .",
